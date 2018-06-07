@@ -12,4 +12,4 @@ spring:
     username: admin
     password: admin
 env:
-  dev-test
+  dev-test1111
